@@ -1,0 +1,34 @@
+        body {
+            font-family: Verdana;
+            font-size: 14px;
+        }
+
+        input,
+        button {
+            padding: 7px;
+        }
+
+        .container {
+            background-color: #FFFFFF;
+            border: 1px solid #000000;
+            padding: 10px;
+            width: 400px;
+            margin: 0 auto;
+        }
+
+        .container .form-control {
+            margin-bottom: 10px;
+            width: 100%;
+        }
+
+        .container .form-control:last-child {
+            margin-bottom: 0;
+        }
+
+        .container .form-control input {
+            width: 380px;
+        }
+
+        .container .form-control button {
+            width: 397px;
+        }
